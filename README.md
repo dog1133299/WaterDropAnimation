@@ -1,9 +1,10 @@
 # WaterDropAnimation
 Water Drop Animation with Pure CSS
 
-See it at :
-https://dog1133299.github.io/WaterDropAnimation/
+![WaterDropAnimation](src/WaterDropAnimation.gif)
 
-Reference:
- 1. https://codepen.io/abehjat/pen/oXMENv?q=drop%20animation&order=popularity&depth=everything&show_forks=false
-2.https://codepen.io/rachsmith/pen/xGrjvB?editors=0110
+## See it at :https://dog1133299.github.io/WaterDropAnimation/
+
+###Reference:
+1. https://codepen.io/abehjat/pen/oXMENv?q=drop%20animation&order=popularity&depth=everything&show_forks=false
+2. https://codepen.io/rachsmith/pen/xGrjvB?editors=0110
